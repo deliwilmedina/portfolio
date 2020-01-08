@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Iry's Portfolio
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
@@ -13,8 +13,6 @@ page_sections:
     link_text: Features
   - link: "#pricing"
     link_text: Pricing
-  - link: "#team"
-    link_text: Team
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
