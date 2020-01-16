@@ -8,11 +8,11 @@ page_sections:
   logo: https://i.pinimg.com/originals/5c/79/79/5c797993e449de40f55e3693d9193c5c.png
   navigation:
   - link: "/"
-    link_text: About me
+    link_text: Work
   - link: "#features"
-    link_text: Features
+    link_text: Fun
   - link: "#pricing"
-    link_text: Pricing
+    link_text: Resume
 - template: hero-banner-w-image
   block: hero-2
   headline: Hi! <br><strong>I'm Deliwil</strong>
