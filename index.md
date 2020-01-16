@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: https://www.instagram.com/p/B7CV-XkIR-9/
+  logo: https://i.pinimg.com/originals/5c/79/79/5c797993e449de40f55e3693d9193c5c.png
   navigation:
   - link: "/"
     link_text: About me
