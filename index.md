@@ -30,7 +30,7 @@ page_sections:
   media_alignment: Left
   headline: <strong>Using cience<span class="light">&nbsp;</span></strong><span
     class="light">to create experiences</span>
-  content: "Some people think that humans are erratic and unpredictable, <strong>I don't think that.</strong>  If we analyze their behavior, we can get a lot of information, and use that information to create the user experience you always wanted."
+  content: "Some people think that humans are erratic and unpredictable, <strong>I don't think that.</strong>  If we use existing studies on human behavior and analyze the behavior of the desired user, we can get a lot of information, and use that information to create the user experience you always wanted."
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
