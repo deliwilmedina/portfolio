@@ -16,7 +16,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Hi! <br><strong>I'm Deliwil</strong>
-  content: Ux researcher and human behavior analyst <br>
+  content: UX researcher & human behavior analyst <br>
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
