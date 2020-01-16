@@ -25,12 +25,17 @@ page_sections:
     image: https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/81372200_10157258458118611_1324815647800033280_o.jpg?_nc_cat=110&_nc_ohc=b9UeQjDItKkAX-EpC8P&_nc_ht=scontent.fgdl3-1.fna&oh=a18479c5ae22022d8d0403bb66a8815a&oe=5ED3EBA8
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: <strong>Using cience<span class="light">&nbsp;</span></strong><span
+    class="light">to create experiences</span>
+  content: "poner cosas bonitas aqui"
 - template: content-feature
   block: feature-1
   media_alignment: Left
   headline: <strong>Using cience<span class="light">&nbsp;</span></strong><span
     class="light">to create experiences</span>
-  content: poner cositas bonitas aqui.
+  content: "poner cositas bonitas aqui"
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
