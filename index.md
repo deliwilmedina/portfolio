@@ -22,7 +22,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'Say hi!'
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: https://i.pinimg.com/originals/5c/79/79/5c797993e449de40f55e3693d9193c5c.png
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
