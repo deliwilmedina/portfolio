@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: https://cdn.imgbin.com/19/22/14/imgbin-rocket-launch-spacecraft-logo-rocket-hsFJJ3m2zhDXaY6ZYyABAVqsJ.jpg
+  logo: https://www.instagram.com/p/B7CV-XkIR-9/
   navigation:
   - link: "/"
     link_text: About me
