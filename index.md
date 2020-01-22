@@ -6,8 +6,8 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: https://i.pinimg.com/originals/5c/79/79/5c797993e449de40f55e3693d9193c5c.png
-  navigation:
-  - link: "/"
+- navigation
+ : "/"
     link_text: Work
   - link: "#features"
     link_text: Fun
@@ -23,7 +23,7 @@ page_sections:
     button_text: 'Say hi!'
   image:
     image: https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/81372200_10157258458118611_1324815647800033280_o.jpg?_nc_cat=110&_nc_ohc=b9UeQjDItKkAX-EpC8P&_nc_ht=scontent.fgdl3-1.fna&oh=a18479c5ae22022d8d0403bb66a8815a&oe=5ED3EBA8
-    alt_text: Product Shot
+    alt_text: Deliwil photo
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
@@ -32,8 +32,8 @@ page_sections:
     class="light">to create experiences</span>
   content: "Some people think that humans are erratic and unpredictable, <strong>I don't think that.</strong>  If we use existing studies on human behavior and analyze the behavior of the desired user, we can get a lot of information, and use that information to create the user experience you always wanted."
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg
+    alt_text: random
 - template: content-feature
   block: feature-1
   media_alignment: Right
